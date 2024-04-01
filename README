@@ -1,0 +1,13 @@
+#(Code challenge)
+####Date 31/03/24
+####By*Neema Odire*
+##Description
+It is a webpage that contains three different programmes;
+One on making a function that swaps the cases in a sentence the leters in uppercase are shifted to lowercase and those in lowercase shifted to uppercase.
+The second one prompts user to create a function that accepts two numbers to create an array between them.
+lastly the third one takes a function with an array which has numbers as input but outputs an array which filters only the prime numbers.
+##Technologies used
+javascript.
+###License
+The content of this site is licensed under the MIT license
+copyright(c)2024
